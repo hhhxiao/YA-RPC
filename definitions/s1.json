@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "name": "Arc",
+  "methods": [
+    {
+      "name": "Add",
+      "params": {
+        "a": 1,
+        "b": 1
+      },
+      "return": 1
+    },
+    {
+      "name": "Mul",
+      "params": {
+        "a": 12,
+        "b": 1
+      },
+      "return": 12
+    },
+    {
+      "name": "Sub",
+      "params": {
+        "a": 12,
+        "b": 1
+      },
+      "return": 12
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 0,
+  "name": "String",
+  "methods": [
+    {
+      "name": "Len",
+      "params": {
+        "str": "string"
+      },
+      "return": 1
+    }
+  ]
+}
